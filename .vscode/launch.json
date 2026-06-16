@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "recreverse",
+            "request": "launch",
+            "mainClass": "day7.recreverse",
+            "projectName": "summer_Assignment_2501921530303_4d460ffb"
+        },
+        {
+            "type": "java",
+            "name": "recsum",
+            "request": "launch",
+            "mainClass": "day7.recsum",
+            "projectName": "summer_Assignment_2501921530303_4d460ffb"
+        },
+        {
+            "type": "java",
+            "name": "recfiboo",
+            "request": "launch",
+            "mainClass": "day7.recfiboo",
+            "projectName": "summer_Assignment_2501921530303_4d460ffb"
+        },
+        {
+            "type": "java",
+            "name": "recfac",
+            "request": "launch",
+            "mainClass": "day7.recfac",
+            "projectName": "summer_Assignment_2501921530303_4d460ffb"
+        },
+        {
+            "type": "java",
+            "name": "conversion2",
+            "request": "launch",
+            "mainClass": "conversion2",
+            "projectName": "summer_Assignment_2501921530303_4d460ffb"
+        },
+        {
+            "type": "java",
+            "name": "lcm",
+            "request": "launch",
+            "mainClass": "day3.lcm",
+            "projectName": "summer_Assignment_2501921530303_4d460ffb"
+        },
+        {
+            "type": "java",
+            "name": "gcd",
+            "request": "launch",
+            "mainClass": "day3.gcd",
+            "projectName": "summer_Assignment_2501921530303_4d460ffb"
+        },
+        {
+            "type": "java",
+            "name": "conversion",
+            "request": "launch",
+            "mainClass": "conversion",
+            "projectName": "summer_Assignment_2501921530303_4d460ffb"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
