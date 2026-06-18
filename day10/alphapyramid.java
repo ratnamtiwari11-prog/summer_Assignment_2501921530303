@@ -3,7 +3,7 @@ package day10;
 public class alphapyramid {
     
      public static void main(String[] args){
-       int store =1;
+       
            String s="";
         for (int i=1; i<=5;i++){
             for(int j=5;j>=i;j--){
