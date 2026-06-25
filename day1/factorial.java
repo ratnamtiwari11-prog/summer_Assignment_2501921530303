@@ -9,7 +9,8 @@ public class factorial {
            
             
         }
-             System.err.println("factorial of given number is "+fact);
+             System.out.println("factorial of given number is "+fact);
+             sc.close();
     }
     
 }
