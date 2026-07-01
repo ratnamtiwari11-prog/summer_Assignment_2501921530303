@@ -12,6 +12,7 @@ class counter{
                count=count+1;
            }
            System.out.println("no of digit present in a given number is "+count);
+          
            sc.close();
     }
 }
